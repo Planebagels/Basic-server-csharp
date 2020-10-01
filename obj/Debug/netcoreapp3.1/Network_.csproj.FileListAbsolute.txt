@@ -1,0 +1,13 @@
+C:\Users\itsno\source\repos\Network_\obj\Debug\netcoreapp3.1\Network_.csprojAssemblyReference.cache
+C:\Users\itsno\source\repos\Network_\obj\Debug\netcoreapp3.1\Network_.AssemblyInfoInputs.cache
+C:\Users\itsno\source\repos\Network_\obj\Debug\netcoreapp3.1\Network_.AssemblyInfo.cs
+C:\Users\itsno\source\repos\Network_\obj\Debug\netcoreapp3.1\Network_.csproj.CoreCompileInputs.cache
+C:\Users\itsno\source\repos\Network_\bin\Debug\netcoreapp3.1\Network_.exe
+C:\Users\itsno\source\repos\Network_\bin\Debug\netcoreapp3.1\Network_.deps.json
+C:\Users\itsno\source\repos\Network_\bin\Debug\netcoreapp3.1\Network_.runtimeconfig.json
+C:\Users\itsno\source\repos\Network_\bin\Debug\netcoreapp3.1\Network_.runtimeconfig.dev.json
+C:\Users\itsno\source\repos\Network_\bin\Debug\netcoreapp3.1\Network_.dll
+C:\Users\itsno\source\repos\Network_\bin\Debug\netcoreapp3.1\Network_.pdb
+C:\Users\itsno\source\repos\Network_\obj\Debug\netcoreapp3.1\Network_.dll
+C:\Users\itsno\source\repos\Network_\obj\Debug\netcoreapp3.1\Network_.pdb
+C:\Users\itsno\source\repos\Network_\obj\Debug\netcoreapp3.1\Network_.genruntimeconfig.cache
